@@ -1,0 +1,34 @@
+.logo {
+    text-align: center;
+}
+h4 {
+    color: green;
+    background-color: rgba(255, 255, 0, 0.226);
+    padding-block: 1rem;
+    border-top: 2px solid yellow;
+    
+}
+
+section {
+    text-align: left;
+    padding-left: 37rem;
+}
+.focaccia {
+    
+    text-align: center;
+}
+.sottotitolo {
+    text-align: left;
+    padding-left: 37rem;
+    
+}
+#Read {
+    text-align: left;
+    padding-left: 37rem;
+}
+h2 {
+    font-family: serif
+}
+h3, ul {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
